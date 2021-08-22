@@ -24,6 +24,7 @@ dependencies:
   cupertino_icons: ^1.0.3
   flutter:
     sdk: flutter
+  flutter_svg: ^0.22.0
   material_cupertino_search_bar: ^0.0.1
 
 dev_dependencies:
